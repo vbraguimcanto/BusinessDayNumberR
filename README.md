@@ -1,2 +1,3 @@
-# numeroDiaUtilR
-Script em R para a alocação do número do dia útil utilizando o package bizdays
+# Business Day Number
+
+R script for the allocation of the working day number using the package bizdays.
